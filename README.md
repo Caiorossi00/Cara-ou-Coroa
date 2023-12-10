@@ -22,6 +22,6 @@ Possíveis Revisões Futuras: <br>
 Novo layout <br>
 Substituir alert por toasts
 
-Link: <a href="https://caiorossi00.github.io/Cara-ou-Coroa/" target="_blank">Jokenpô</a>
+Link: <a href="https://caiorossi00.github.io/Cara-ou-Coroa/" target="_blank">Cara ou Coroa</a>
 
 
